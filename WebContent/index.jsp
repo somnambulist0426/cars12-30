@@ -55,6 +55,13 @@
     <dd><a href="CarServlet?method=add">添加二手车</a></dd>
    </dl>
   </li>
+    <li>
+   <dl>
+    <dt>用户模块</dt>
+    <dd><a href="CarServlet?method=listAll" class="active">用户列表</a></dd>
+    <dd><a href="user_ADD.jsp">添加用户</a></dd>
+   </dl>
+  </li>
   <li>
    <dl>
     <dt>新闻模块</dt>
